@@ -1,0 +1,6 @@
+[package]
+name = "spectral-emotions"
+version = "0.1.0"
+edition = "2021"
+description = "Maps emotional states to spectral properties — the intersection of psychology and graph theory"
+license = "MIT"
